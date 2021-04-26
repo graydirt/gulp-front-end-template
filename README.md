@@ -1,7 +1,7 @@
 # gulp-front-end-template
 gulp compiled sass and js with handlebars (hbs) template.
 
-<h1>Use the "dev" branch.</h1>
+<h1>Use the "master" branch.</h1>
 <h2>About this template</h2>
 <p>This proposed template is to help the FED's to implement the concept of layout, partial, page and handlebar(hbs) templates.</p>
 
